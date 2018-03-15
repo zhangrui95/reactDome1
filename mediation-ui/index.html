@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+        <base href="/"/>
+        <meta charset="UTF-8"/>
+        <title>React Tutorial</title>
+        <link rel="stylesheet" href="assets/css/antd-style.css" />
+        <link rel="stylesheet" href="assets/css/input.css" />
+        <link rel="stylesheet" href="assets/css/checkbox.css" />
+        <link rel="stylesheet" href="assets/css/calendar.css" />
+        <link rel="stylesheet" href="assets/css/tooltip.css" />
+        <link rel="stylesheet" href="assets/css/select.css" />
+        <link rel="stylesheet" href="assets/css/date.css" />
+        <link rel="stylesheet" href="assets/css/time.css" />
+        <link rel="stylesheet" href="assets/css/rev-settings.css" />
+        <link rel="stylesheet" href="assets/css/style.css" />
+        <link rel="stylesheet" href="assets/css/chrome-style.css"/>
+        <link rel="stylesheet" media="print" href="assets/css/print.css"/>
+  </head>
+  <body class="index-bg">
+      <div id="main" class="main"></div>
+      <!-- copyright start -->
+      <!--<div class="index-copyright">哈尔滨与时科技发展有限公司 提供技术支持</div>-->
+      <!-- copyright end -->
+      <div id="box-chrome" class="box-chrome">
+          <div class="browser-bg">
+              <div class="browser-top"></div>
+              <div class="browser-text1">您当前使用的浏览器版本过低，请下载安装谷歌浏览器。</div>
+              <div class="browser-content">
+                  <div class="browser-box">
+                      <div class="browser-icon">
+                        <a href="public/Chrome46.exe"><img src="assets/images/google.jpg" width="100" height="100"/><br/>
+                          谷歌浏览器</a>
+                      </div>
+                    </div>
+                  <div class="cls"></div>
+              </div>
+          </div>
+      </div>
+      <script type="text/javascript">
+            var isChrome = window.navigator.userAgent.indexOf("Chrome") !== -1;
+            var Edge = window.navigator.userAgent.indexOf("Edge") !== -1;
+            var boxChrome = document.getElementById("box-chrome");
+            if (Edge) {
+              boxChrome.style.display="block";
+            }else if(!isChrome){
+              boxChrome.style.display="block";
+            }
+      </script>
+      <script type="text/javascript" src="/assets/vendor.js"></script>
+      <script type="text/javascript" src="/assets/index.js"></script>
+  </body>
+</html>

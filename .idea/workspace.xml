@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77d6f362-52c5-4484-b097-102376483566" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/back-all.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/bg_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/bg_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/bg_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/bg_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/bg_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/blue-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/captcha-photo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/copyright-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/google.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/icon-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/icon-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/icon-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/icon-back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/icon-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/icon-modify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/icon-operation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/icon-out.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/index-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/index-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/login-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/login-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/login-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/nodata.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/noticetip-blue-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/noticetip-blue-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/noticetip-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/noticetip-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/table-list-head.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/text-captcha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/text-password.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/text-user.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/thead-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/wide3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/yun1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/yun2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/yun3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/images/yun4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/resources/img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/reactDome1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/antd-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/chrome-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/date.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/rev-settings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/style.diff.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/time.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/assets/css/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/arhcive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/arhciveSuspend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/banners.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/checkvisit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/enterprise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/investDetail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/mediateDetail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/navs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/protocol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/actions/syncAction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/Header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/PageBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/Select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/AddPartyinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/ArchiveDetail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/ArchiveFinish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/ArchiveHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/CheckVisit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/DisputeCase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/EvidenceCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/EvidenceList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/EvidenceRow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/EvidenceView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/HeaderTop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/Investigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/InvestigationList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/Mediate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/MediateCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/MediateList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/MediateRow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/PageCheckContent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/PageContent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/PageFooter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/PageHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/PageProContent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/PageRemark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/PartyCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/PartyInput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/PopMediator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/Protocol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/RegularValidator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/SurveyList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/SurveyRow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/TimeChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/UpLoading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/archive/applyFor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/banner/BannerAssembler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/banner/BannerCounterBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/banner/BannerCounterItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/banner/BannerImgBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/banner/BannerImgItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/banner/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/form/AutoCompleteItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/form/DateItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/form/DateRange2Item.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/form/DateRangeItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/form/InputItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/form/SelectItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/form/SingleCheckBoxItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/form/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/ArchiveActionCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/ArchiveLinkCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/BindActionBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/BindEntCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/Cell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/DataCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/DateCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/IndexCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/LinkCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/NewCheckedCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/Row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/StateCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/ViewEntCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/list/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/login/Captcha.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/login/Login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/login/LoginButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/login/LoginItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/login/Remember.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/login/Tips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/nav/NavAssembler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/nav/NavBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/nav/NavItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/pop/Pop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/pop/PopAlert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/pop/PopAlertHtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/pop/PopConfirm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/pop/PopLoading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/user/MotifyPasswordBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/user/UserActionBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/components/user/UserInfoBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/config/api/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/config/banner/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/config/banner/manage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/config/banner/trade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/config/form/archive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/config/form/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/config/form/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/config/list/archive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/config/list/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/config/list/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/constants/ActionTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/constants/Constant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/constants/Schemas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/containers/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/containers/Archive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/containers/DevTools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/containers/PageList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/containers/Root.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/containers/Root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/containers/Root.prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/containers/SearchForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/middleware/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/archive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/archiveSuspend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/bannersReducer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/checkvisit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/enterprise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/evidence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/evidenceDelete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/headerReducer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/investigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/investigationDetail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/lists.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/mediate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/mediateDetail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/navReducer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/protocol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/selectItemReducer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/reducers/syncReducer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/store/configureStore.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/store/configureStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/store/configureStore.prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/utils/body.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/utils/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/utils/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/utils/param.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/utils/routeHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/src/utils/storage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/actions/enterprise.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/actions/syncAction.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/reducers/bannersReducer.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/reducers/enterprise.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/reducers/headerReducer.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/reducers/lists.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/reducers/navReducer.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/reducers/selectItemReducer.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/reducers/syncReducer.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/resources/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/test/utils/param.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mediation-ui/webpack.config.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ArchiveActionCell.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mediation-ui/src/components/list/ArchiveActionCell.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/mediation-ui/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/mediation-ui/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="reactDome1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactDome1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactDome1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactDome1" type="462c0819:PsiDirectoryNode" />
+              <item name="mediation-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactDome1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactDome1" type="462c0819:PsiDirectoryNode" />
+              <item name="mediation-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactDome1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactDome1" type="462c0819:PsiDirectoryNode" />
+              <item name="mediation-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactDome1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactDome1" type="462c0819:PsiDirectoryNode" />
+              <item name="mediation-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="D:/node/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77d6f362-52c5-4484-b097-102376483566" name="Default" comment="" />
+      <created>1521074896797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521074896797</updated>
+      <workItem from="1521074899951" duration="440000" />
+      <workItem from="1521076585796" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="445000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21458334" sideWeight="0.67350155" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21458334" sideWeight="0.32649842" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mediation-ui/src/components/list/ArchiveActionCell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mediation-ui/src/components/list/ArchiveActionCell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

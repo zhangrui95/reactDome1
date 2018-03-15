@@ -1,0 +1,128 @@
+/*add.*/
+.login-content-main {
+    margin: auto;
+    padding: 0;
+    height: 770px;
+}
+.btn-larger:hover {
+    background: #0f3d7a;
+}
+.odd{
+    height:36px;
+}
+.even{
+    height:36px;
+}
+.queue-anim-leaving {
+    position: absolute;
+    width: 100%;
+}
+.router-wrap {
+    /*height: 480px;*/
+    /*background: #F8F8F8;*/
+    /*padding: 10px;*/
+    /*margin: 10px;*/
+    position: relative;
+    -webkit-transition: height 0.5s cubic-bezier(0.77, 0, 0.175, 1);
+    transition: height 0.5s cubic-bezier(0.77, 0, 0.175, 1);
+}
+
+.search-submit {
+    width: 75px;
+    text-align: center;
+    height: 35px;
+    float: left;
+    /*padding-top: 5px;*/
+}
+.account-box {
+    background: #f0f0f0;
+    width: 100px;
+    position: absolute;
+    z-index: 888;
+    /*display: none;*/
+    border: 1px solid #bebebe;
+    box-shadow: #333 0px 0px 8px;
+    -moz-border-radius: 8px;      /* Gecko browsers */
+    -webkit-border-radius: 8px;   /* Webkit browsers */
+    border-radius: 8px; /* W3C syntax */
+}
+.pop-error {
+    overflow: hidden;
+    /*display: none;*/
+    z-index: 1210;
+    position: absolute;
+    margin: 0 auto;
+    /*width: 500px;*/
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: #444 0px 0px 15px;
+}
+.pop-gray-bg{
+    position: fixed;
+    z-index: 1200;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    opacity: 0.8;
+    background: rgb(51, 51, 51);
+}
+
+
+
+
+
+/*delete.*/
+#login-content {
+    margin: auto;
+    padding: 0;
+    height: 770px;
+}
+.btn-larger-over {
+    background: #0f3d7a;
+    -moz-border-radius: 3px;      /* Gecko browsers */
+    -webkit-border-radius: 3px;   /* Webkit browsers */
+    border-radius: 3px; /* W3C syntax */
+    box-shadow: 0px 3px 0px #1757b1;
+    width: 250px;
+    height: 48px;
+    color: #fff;
+    font-size: 16px;
+    font-family: "Microsoft YaHei", "\5b8b\4f53", "Arial", "Helvetica", "sans-serif";
+    /*font-weight: bold;*/
+    text-align: center;
+    border: 0;
+    line-height: 28px;
+    cursor: pointer;
+}
+
+.search-submit {
+    width: 75px;
+    text-align: center;
+    height: 35px;
+    float: left;
+    padding-top: 5px;
+}
+
+.account-box {
+    background: #f0f0f0;
+    width: 100px;
+    position: absolute;
+    z-index: 888;
+    display: none;
+    border: 1px solid #bebebe;
+    box-shadow: #333 0px 0px 8px;
+    -moz-border-radius: 8px;      /* Gecko browsers */
+    -webkit-border-radius: 8px;   /* Webkit browsers */
+    border-radius: 8px; /* W3C syntax */
+}
+.pop-error {
+    overflow: hidden;
+    display: none;
+    z-index: 1210;
+    margin: 0 auto;
+    width: 500px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: #444 0px 0px 15px;
+}

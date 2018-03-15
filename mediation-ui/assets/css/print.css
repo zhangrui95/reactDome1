@@ -1,0 +1,192 @@
+.no-print,.print-hide,.yun,.print-header-box-none,.print-footer-box-none,.pop-gray-bg{
+    display: none;
+    height: 0px;
+}
+
+.top-left{
+    display: none;
+}
+
+.top-right{
+    display: none;
+}
+
+.bottom-left{
+    display: none;
+}
+
+.bottom-right{
+    display: none;
+}
+.btn-box,.change-btn{
+    display: none;
+}
+
+.fixed-box{
+    display: none;
+}
+
+.main,.main-body,.center-box{
+    margin: 0;
+    padding: 0;
+}
+
+.no-margin{
+    margin: 0 auto;
+}
+.formBorder,.border-box,.bottom-border{
+    border: 0;
+}
+
+.bottom-hide,.goback{
+    display: none;
+}
+
+.bottom-position,.print-header-box,.print-bottom-box,.print-show{
+    display: block;
+}
+
+/*.min-height{*/
+    /*min-height: 1450px;*/
+/*}*/
+
+.address-width{
+    width: 490px;
+}
+
+.name-sex-width{
+    width: 140px;
+}
+
+#mainright{
+    float: none;
+}
+
+.page-next{
+    page-break-after: always;
+}
+
+.title-num{
+    width: 96%;
+    margin:0;
+}
+.word-num{
+    float: right;
+}
+.reference-number{
+    width: 50px;
+    font-weight:900;
+    font-size: 22px;
+    float: left;
+}
+.sign-margin{
+    width: 90%;
+    margin: 0 auto;
+    height: 45px;
+    line-height: 70px;
+    overflow: hidden;
+    position: relative;
+    color: #333;
+    font-size: 18px;
+}
+
+.title-form-name{
+    font-size: 40px;
+}
+.word-title,.font-weight-word{
+    font-size: 22px;
+}
+.font-news{
+    font-size: 21px;
+}
+.font-big{
+    font-size: 18px;
+}
+.print-name-width{
+    width: 98px;
+}
+.width-box{
+    width:54px;
+}
+.news-width{
+    width:108px;
+}
+.margin-form-party{
+    margin: 5px 1px;
+}
+.all-width{
+    width: 65px;
+}
+.content-indent,.apply-name{
+    font-size: 18px;
+    line-height: 28px;
+}
+.time-right{
+    width: 96%;
+    font-size: 18px;
+    line-height: 28px;
+}
+.page-fixed-height{
+    width: 100%;
+    height: 90px;
+}
+.formBorder{
+    width: 1000px;
+    margin:10px 0 30px;
+}
+.name-style-left{
+    width: 95px;
+}
+.font-margin-top{
+    margin-top:4px;
+}
+.font-margin{
+    margin-top: 2px;
+}
+.find-style-left{
+    width: 160px;
+}
+.bottom-position{
+    width: 96%;
+    margin-left: -50%;
+}
+.time-right{
+    width: 100%;
+}
+.margin-word{
+    margin-top: 6px;
+}
+.envelope-title-all{
+    font-size: 50px;
+    letter-spacing:2px;
+    height: 150px;
+    line-height: 220px;
+}
+.envelope-name{
+    height: 130px;
+    line-height: 140px;
+    width: 100%;
+    text-align: center;
+    font-size: 74px;
+    letter-spacing:25px;
+}
+.envelope-img{
+    width: 38%;
+    margin:50px 31% 130px;
+}
+.envelope-text{
+    width: 70%;
+    margin:15px 0 15px 20%;
+    font-size: 22px;
+}
+.envelope-title{
+    width:88px;
+    font-size: 22px;
+    float: left;
+}
+.envelope-left{
+    float: left;
+}
+.envelope-right{
+    float: right;
+}
